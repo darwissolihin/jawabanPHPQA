@@ -1,5 +1,3 @@
-# jawabanPHPQA
-
 <?php
 class MergeNames
 {
